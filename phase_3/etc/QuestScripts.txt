@@ -14,7 +14,7 @@ WAIT 1
 FINISH_QUEST_MOVIE
 
 ID tutorial_mickey
-LOAD_SFX soundRun "phase_3.5/audio/sfx/AV_footstep_runloop.wav"
+LOAD_SFX soundRun "phase_3.5/audio/sfx/AV_footstep_runloop.ogg"
 LOCK_LOCALTOON
 REPARENTTO camera render
 POSHPRSCALE camera 11 7 3 52 0 0 1 1 1
