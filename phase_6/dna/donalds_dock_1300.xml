@@ -1,5 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <scene zone="1300">
+    <group name="curvePoints">
+        <curve_point id="0" x="-119.0" y="20.0" z="0.0" type="STANDARD_POINT" zone="1301"/>
+        <curve_point id="1" x="7.0" y="20.0" z="0.0" type="STARTING_POINT" zone="1301"/>
+        <curve_point id="2" x="25.0" y="20.0" z="0.0" type="STANDARD_POINT" zone="1301"/>
+        <curve_point id="3" x="40.0" y="20.0" z="0.0" type="STANDARD_POINT" zone="1301"/>
+        <curve_point id="4" x="53.0" y="20.0" z="0.0" type="STANDARD_POINT" zone="1302"/>
+        <curve_point id="5" x="80.0" y="20.0" z="0.0" type="STANDARD_POINT" zone="1302"/>
+        <curve_point id="6" x="101.0" y="20.0" z="0.0" type="STANDARD_POINT" zone="1303"/>
+        <curve_point id="7" x="120.0" y="20.0" z="0.0" type="STANDARD_POINT" zone="1303"/>
+        <curve_point id="8" x="120.0" y="4.0" z="0.0" type="STANDARD_POINT" zone="1303"/>
+        <curve_point id="9" x="120.0" y="-5.0" z="0.0" type="STANDARD_POINT" zone="1304"/>
+        <curve_point id="10" x="120.0" y="-14.0" z="0.0" type="STANDARD_POINT" zone="1304"/>
+        <curve_point id="11" x="120.0" y="-27.0" z="0.0" type="STANDARD_POINT" zone="1304"/>
+        <curve_point id="12" x="105.0" y="-30.0" z="0.0" type="STANDARD_POINT" zone="1304"/>
+        <curve_point id="13" x="105.0" y="-44.0" z="0.0" type="STANDARD_POINT" zone="1304"/>
+        <curve_point id="14" x="105.0" y="-60.0" z="0.0" type="STANDARD_POINT" zone="1304"/>
+        <curve_point id="15" x="105.0" y="-75.0" z="0.0" type="STANDARD_POINT" zone="1304"/>
+        <curve_point id="16" x="105.0" y="-88.0" z="0.0" type="STANDARD_POINT" zone="1305"/>
+        <curve_point id="17" x="120.0" y="-92.0" z="0.0" type="STANDARD_POINT" zone="1305"/>
+        <curve_point id="18" x="120.0" y="-106.0" z="0.0" type="STANDARD_POINT" zone="1305"/>
+        <curve_point id="19" x="120.0" y="-121.0" z="0.0" type="STANDARD_POINT" zone="1306"/>
+        <curve_point id="20" x="120.0" y="-140.0" z="0.0" type="STANDARD_POINT" zone="1306"/>
+        <curve_point id="21" x="135.0" y="-140.0" z="0.0" type="STANDARD_POINT" zone="1306"/>
+        <curve_point id="22" x="146.0" y="-140.0" z="0.0" type="STANDARD_POINT" zone="1307"/>
+        <curve_point id="23" x="169.0" y="-140.0" z="0.0" type="STANDARD_POINT" zone="1307"/>
+        <curve_point id="24" x="191.0" y="-140.0" z="0.0" type="STANDARD_POINT" zone="1309"/>
+        <curve_point id="25" x="219.0" y="-140.0" z="0.0" type="STANDARD_POINT" zone="1309"/>
+        <curve_point id="26" x="241.0" y="-140.0" z="0.0" type="STANDARD_POINT" zone="1310"/>
+        <curve_point id="27" x="260.0" y="-140.0" z="0.0" type="STANDARD_POINT" zone="1310"/>
+        <curve_point id="28" x="260.0" y="-125.0" z="0.0" type="STANDARD_POINT" zone="1310"/>
+        <curve_point id="29" x="260.0" y="-115.0" z="0.0" type="STANDARD_POINT" zone="1311"/>
+        <curve_point id="30" x="260.0" y="-90.0" z="0.0" type="STANDARD_POINT" zone="1311"/>
+        <curve_point id="31" x="260.0" y="-67.0" z="0.0" type="STANDARD_POINT" zone="1312"/>
+        <curve_point id="32" x="260.0" y="-40.0" z="0.0" type="STANDARD_POINT" zone="1312"/>
+        <curve_point id="33" x="260.0" y="-19.0" z="0.0" type="STANDARD_POINT" zone="1313"/>
+        <curve_point id="34" x="260.0" y="0.0" z="0.0" type="STANDARD_POINT" zone="1313"/>
+        <curve_point id="35" x="277.0" y="0.0" z="0.0" type="STANDARD_POINT" zone="1313"/>
+        <curve_point id="36" x="290.0" y="0.0" z="0.0" type="STANDARD_POINT" zone="1314"/>
+        <curve_point id="37" x="315.0" y="0.0" z="0.0" type="STANDARD_POINT" zone="1314"/>
+        <curve_point id="38" x="331.0" y="0.0" z="0.0" type="STANDARD_POINT" zone="1315"/>
+        <curve_point id="39" x="352.0" y="0.0" z="0.0" type="STANDARD_POINT" zone="1317"/>
+        <curve_point id="40" x="374.0" y="0.0" z="0.0" type="STANDARD_POINT" zone="1317"/>
+        <curve_point id="41" x="401.0" y="0.0" z="0.0" type="STANDARD_POINT" zone="1318"/>
+        <curve_point id="42" x="420.0" y="0.0" z="0.0" type="STANDARD_POINT" zone="1318"/>
+        <curve_point id="43" x="420.0" y="-18.0" z="0.0" type="STANDARD_POINT" zone="1318"/>
+        <curve_point id="44" x="420.0" y="-29.0" z="0.0" type="STANDARD_POINT" zone="1319"/>
+        <curve_point id="45" x="420.0" y="-49.0" z="0.0" type="STANDARD_POINT" zone="1319"/>
+        <curve_point id="46" x="420.0" y="-71.0" z="0.0" type="STANDARD_POINT" zone="1320"/>
+        <curve_point id="47" x="420.0" y="-94.0" z="0.0" type="STANDARD_POINT" zone="1320"/>
+        <curve_point id="48" x="420.0" y="-121.0" z="0.0" type="STANDARD_POINT" zone="1321"/>
+        <curve_point id="49" x="420.0" y="-140.0" z="0.0" type="STANDARD_POINT" zone="1321"/>
+        <curve_point id="50" x="438.0" y="-140.0" z="0.0" type="STANDARD_POINT" zone="1321"/>
+        <curve_point id="51" x="453.0" y="-140.0" z="0.0" type="STANDARD_POINT" zone="1322"/>
+        <curve_point id="52" x="477.0" y="-140.0" z="0.0" type="STANDARD_POINT" zone="1322"/>
+        <curve_point id="53" x="492.0" y="-140.0" z="0.0" type="STANDARD_POINT" zone="1323"/>
+        <curve_point id="54" x="512.0" y="-140.0" z="0.0" type="STANDARD_POINT" zone="1323"/>
+        <curve_point id="55" x="526.0" y="-140.0" z="0.0" type="STANDARD_POINT" zone="1323"/>
+        <curve_point id="56" x="541.0" y="-140.0" z="0.0" type="STANDARD_POINT" zone="1324"/>
+        <curve_point id="57" x="560.0" y="-140.0" z="0.0" type="STANDARD_POINT" zone="1324"/>
+        <curve_point id="58" x="560.0" y="-123.0" z="0.0" type="STANDARD_POINT" zone="1324"/>
+        <curve_point id="59" x="560.0" y="-113.0" z="0.0" type="STANDARD_POINT" zone="1325"/>
+        <curve_point id="60" x="560.0" y="-89.0" z="0.0" type="STANDARD_POINT" zone="1325"/>
+        <curve_point id="61" x="560.0" y="-69.0" z="0.0" type="STANDARD_POINT" zone="1326"/>
+        <curve_point id="62" x="560.0" y="-50.0" z="0.0" type="STANDARD_POINT" zone="1326"/>
+        <curve_point id="63" x="578.0" y="-50.0" z="0.0" type="STANDARD_POINT" zone="1326"/>
+        <curve_point id="64" x="596.0" y="-50.0" z="0.0" type="STANDARD_POINT" zone="1329"/>
+        <curve_point id="65" x="622.0" y="-50.0" z="0.0" type="ENDING_POINT" zone="1329"/>
+        <curve_point id="66" x="748.0" y="-50.0" z="0.0" type="STANDARD_POINT" zone="1329"/>
+    </group>
+
 	<store_suit_point id="8" type="STREET_POINT" x="100" y="15" z="-0.5" />
 	<store_suit_point id="9" type="STREET_POINT" x="100" y="25" z="-0.5" />
 	<store_suit_point id="10" type="STREET_POINT" x="115" y="15" z="-0.5" />
