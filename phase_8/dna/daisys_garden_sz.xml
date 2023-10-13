@@ -799,12 +799,12 @@
 			</node>
 			<!-- ToonFest Task Givers -->
 			<prop name="npc_questgiver_origin_0" code="DCS">
-				<pos x="-72.2" y="66.3" z="0.025" />
-				<nhpr h="10" p="0" r="0" />
+				<pos x="-99.2849" y="92.9892" z="0.025" />
+				<nhpr h="661.069" p="0" r="0" />
 			</prop>
 			<prop name="npc_questgiver_origin_1" code="DCS">
-				<pos x="-63.1" y="68.7" z="0.025" />
-				<nhpr h="-82" p="0" r="0" />
+				<pos x="-101.694" y="102.45" z="0.025" />
+				<nhpr h="619.937" p="0" r="0" />
 			</prop>
 			<!-- Inner maze -->
 			<prop name="bench_0" code="prop_playground_bench">

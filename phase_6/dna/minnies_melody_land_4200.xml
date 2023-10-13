@@ -92,7 +92,7 @@
         <curve_point id="88" x="140.0" y="377.0" z="0.0" type="STANDARD_POINT" zone="4201"/>
         <curve_point id="89" x="140.0" y="383.0" z="0.0" type="STANDARD_POINT" zone="4201"/>
         <curve_point id="90" x="140.0" y="394.0" z="0.0" type="ENDING_POINT" zone="4201"/>
-        <curve_point id="91" x="140.0" y="420.0" z="0.0" type="STANDARD_POINT" zone="4201"/>
+        <curve_point id="91" x="140.0" y="520.0" z="0.0" type="STANDARD_POINT" zone="4201"/>
     </group>
 
 	<store_suit_point id="2" type="STREET_POINT" x="135" y="355" z="-0.5" />

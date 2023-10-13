@@ -687,12 +687,12 @@
 			</prop>
 			<!-- ToonFest Task Givers -->
 			<prop name="npc_questgiver_origin_0" code="DCS">
-				<pos x="-106" y="-74.4" z="3.281" />
-				<nhpr h="-151" p="0" r="0" />
+				<pos x="-70.6378" y="144.214" z="3.28138" />
+				<nhpr h="-113.186" p="0" r="0" />
 			</prop>
 			<prop name="npc_questgiver_origin_1" code="DCS">
-				<pos x="-100.3" y="-81.8" z="3.281" />
-				<nhpr h="-82" p="0" r="0" />
+				<pos x="-64.3298" y="152.438" z="3.28048" />
+				<nhpr h="-126.915" p="0" r="0" />
 			</prop>
 			<!-- By the fisherman -->
 			<prop name="bench_0" code="prop_playground_bench">

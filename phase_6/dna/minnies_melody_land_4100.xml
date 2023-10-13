@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <scene zone="4100">
     <group name="curvePoints">
-        <curve_point id="0" x="-46.0" y="20.0" z="0.0" type="STANDARD_POINT" zone="4127"/>
-        <curve_point id="1" x="-172.0" y="20.0" z="0.0" type="STARTING_POINT" zone="4127"/>
+        <curve_point id="0" x="-46.5" y="20.0" z="0.0" type="STANDARD_POINT" zone="4127"/>
+        <curve_point id="1" x="-172.5" y="20.0" z="0.0" type="STARTING_POINT" zone="4127"/>
         <curve_point id="2" x="-181.0" y="20.0" z="0.0" type="STANDARD_POINT" zone="4127"/>
         <curve_point id="3" x="-200.0" y="20.0" z="0.0" type="STANDARD_POINT" zone="4127"/>
         <curve_point id="4" x="-200.0" y="36.0" z="0.0" type="STANDARD_POINT" zone="4127"/>
