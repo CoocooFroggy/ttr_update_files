@@ -47,7 +47,6 @@
 39*1*Bonzo
 40*1*Buford
 41*1*Bunky
-42*1*Buster
 43*1*Butch
 44*1*Buzz
 45*1*Cecil
@@ -189,7 +188,6 @@
 181*1*Freckles
 182*1*Frizzy
 183*1*Furball
-184*1*Goopy
 185*1*Huddles
 186*1*J.C.
 187*1*Jazzy
@@ -202,7 +200,6 @@
 195*1*Lucky
 196*1*Mildew
 197*1*Murky
-198*1*Nutty
 199*1*Pancake
 200*1*Peanut
 201*1*Peppy
@@ -215,7 +212,6 @@
 208*1*Salty
 209*1*Scooter
 210*1*Skids
-211*1*Skimpy
 212*1*Soupy
 214*1*Slippy
 215*1*Slumpy
@@ -296,7 +292,6 @@
 292*3*Mega
 293*3*Mizzen
 294*3*Nickel
-295*3*Nutty
 296*3*Octo
 297*3*Paddle
 298*3*Pale
@@ -370,7 +365,6 @@
 366*4*flinger
 367*4*flip
 368*4*flipper
-369*4*foot
 370*4*fussen
 371*4*gadget
 373*4*glop
@@ -387,7 +381,6 @@
 384*4*mash
 385*4*monkey
 386*4*mooch
-387*4*mouth
 388*4*muddle
 389*4*muffin
 390*4*mush
@@ -421,7 +414,6 @@
 418*4*swirl
 419*4*teeth
 420*4*thud
-421*4*toes
 422*4*ton
 423*4*toon
 424*4*tooth
