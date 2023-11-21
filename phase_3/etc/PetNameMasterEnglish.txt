@@ -23,6 +23,7 @@ Alabaster
 Alastair
 Alberto
 Alchemy
+Aleena
 Alexander
 Alfalfa
 Alfonso
@@ -60,6 +61,7 @@ Antonio
 Anubus
 Apogee
 Apollo
+Apple
 Applesauce
 Apprentice
 Apricot
@@ -574,6 +576,7 @@ Electra
 Electron
 Elf
 Elijah
+Ellie
 Elmer
 Elsie
 Elvira
@@ -869,6 +872,7 @@ Houdini
 Houston
 Howard
 Huckleberry
+Hue
 Huggy
 Hugo
 Humdinger
@@ -1191,6 +1195,7 @@ Marcel
 Marco
 Mariachi
 Mario
+Marlowe
 Marmalade
 Marquee
 Marshmallow
@@ -1338,6 +1343,7 @@ Nelson
 Neon
 Neptune
 Nero
+Nessie
 Network
 Neuron
 Neutron
@@ -1483,6 +1489,7 @@ Pavarotti
 Pavlov
 Paws
 Peabody
+Peach
 Peachy
 Peanut
 Pearl
@@ -1561,6 +1568,7 @@ Pointy
 Pokey
 Polaris
 Polifax
+Polly
 Pollywog
 Pom Pom
 Poofball
@@ -1575,6 +1583,7 @@ Porkchop
 Portobello
 Poseidon
 Postcard
+Potato
 Potbelly
 Potpie
 Potzy
@@ -1729,6 +1738,7 @@ Rockwell
 Rocky
 Rococo
 Roderick
+Roe
 Roger
 Rogue
 Rollo

@@ -7,28 +7,6 @@
 					<pos x="-60" y="-20" z="0" />
 					<nhpr h="0" p="0" r="0" />
 				</prop>
-				<flat_building id="tb0:random_DNARoot" width="10">
-					<pos x="94.71" y="174.42" z="10.54" />
-					<nhpr h="-143" p="0" r="0" />
-					<wall height="3" code="wall_basement_rock_ur">
-						<color r="0.57" g="1" b="0.65" a="1" />
-						<windows code="window_sm_pointed_ur" count="0">
-							<color r="0.27" g="1" b="0.42" a="1" />
-						</windows>
-					</wall>
-					<wall height="13" code="wall_md_board_ur">
-						<color r="0.48" g="1" b="0.7" a="1" />
-						<windows code="window_sm_pointed_DG_ur" count="1">
-							<color r="1" g="1" b="1" a="1" />
-						</windows>
-					</wall>
-					<wall height="9" code="wall_md_board_ur">
-						<color r="0.48" g="1" b="0.7" a="1" />
-						<windows code="window_sm_pointed_DG_ur" count="1">
-							<color r="1" g="1" b="1" a="1" />
-						</windows>
-					</wall>
-				</flat_building>
 				<!--  chineseCheckers1 left of entrance -->
 				<node name="game_table_1">
 					<prop name="prop_game_table_DNARoot" code="prop_game_table">
